@@ -1,10 +1,5 @@
 <h1 align=""center"">Michael Lascano</h1>
 <h3 align=""center"">Software Developer & AI Architect</h3>
-<p align=""center="">
-  <a href="www.linkedin.com/in/michael-lascano-nd">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
 ---
 
 ### 👨‍💻 Professional Profile | Perfil Profesional
@@ -26,11 +21,11 @@
 
 ---
 
-### 🛠 Tech Stack | Herramientas Técnicas
+### 🛠 Social Network | Red Social
 
-<p align=""left""> 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,js,html,css,git,github,vscode,docker,windows&theme=dark" />
+<p align=""center="">
+  <a href="www.linkedin.com/in/michael-lascano-nd">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
