@@ -1,26 +1,36 @@
-<h1 align=""center"">Hola, soy Michael Lascano 👋</h1>
-<h3 align=""center"">Desarrollador de Software & Arquitecto de Inteligencia Artificial</h3>
+<h1 align=""center"">Michael Lascano</h1>
+<h3 align=""center"">Software Developer & AI Architect</h3>
 
-<p align=""center"">
-  <img src=""https://komarev.com/ghpvc/?username=MaykNLD&label=Vistas%20de%20Perfil&color=0e75b6&style=flat"" alt=""MaykNLD"" /> 
-</p>
+---
 
-### 👨‍💻 Sobre mí
-- 💻 Explorando la **Intersección entre Código e Inteligencia Artificial**.
-- 🚀 Especialidad: **Automatización de Workflows, Prompt Engineering Avanzado y Desarrollo Híbrido.**
-- 🧠 Intereses: Desarrollo Backend, Orquestadores Multi-Agente y Generative AI Solutions.
+### 👨‍💻 Professional Profile | Perfil Profesional
 
-### 🏆 Proyectos Destacados (State-of-the-Art)
-Aquí tienes los desarrollos más sólidos y técnicos en los que he trabajado:
+**[EN]** Dedicated Software Developer and AI Architect specialized in building autonomous multi-agent systems, advanced automation workflows, and scalable backend solutions. Focused on high-impact technology and process optimization through Artificial Intelligence.
 
-| Proyecto | Descripción | Link |
-|----------|-------------|------|
-| **[AI Career Orchestrator (V4)](#)** | Pipeline de 5 Agentes autónomos. Generación estricta de CVs, auditoría de métricas y estrategias Inbound (*Proof-of-Work*). Arquitectura *Zero-Hallucination* y bóveda aislada (*Vault*). | [🚀 Explorar Código](https://github.com/MaykNLD/AI_Career_Showcase) |
+**[ES]** Desarrollador de Software y Arquitecto de IA especializado en la construcción de sistemas autónomos multi-agente, flujos de automatización avanzados y soluciones de backend escalables. Enfocado en tecnología de alto impacto y optimización de procesos mediante Inteligencia Artificial.
 
-### 🛠 Tech Stack
+---
+
+### 🚀 Key Projects | Proyectos Destacados
+
+| Project | Description (EN) | Descripción (ES) | Link |
+|:---:|---|---|:---:|
+| **AI Career Orchestrator (V4)** | Multi-agent autonomous system for career acceleration with Zero-Hallucination policy. | Sistema autónomo multi-agente para aceleración de carrera con arquitectura Cero-Alucinación. | [View](https://github.com/MaykNLD/AI_Career_Showcase) |
+| **Real Estate Analyzer** | Data analysis tool for real estate markets built in Java. | Herramienta de análisis de datos para mercados inmobiliarios desarrollada en Java. | [View](https://github.com/MaykNLD/Analizador-Inmobiliaria-Java) |
+| **Vehicle Rental Manager** | Scalable portfolio project for car rental business management. | Proyecto de gestión empresarial para alquiler de vehículos orientado a portafolio. | [View](https://github.com/MaykNLD/Alquiler-Vehiculos-Portfolio) |
+| **App Planning** | Android mobile application for productivity and strategic planning. | Aplicación móvil Android para productividad y planificación estratégica. | [View](https://github.com/MaykNLD/App_Planning) |
+
+---
+
+### 🛠 Tech Stack | Herramientas Técnicas
+
 <p align=""left""> 
-  <a href=""https://skillicons.dev""><img src=""https://skillicons.dev/icons?i=py,js,html,css,git,github,vscode,docker,windows&theme=dark"" /></a>
+  <a href=""https://skillicons.dev"">
+    <img src=""https://skillicons.dev/icons?i=py,java,js,html,css,git,github,vscode,docker,windows&theme=dark"" />
+  </a>
 </p>
 
 ---
-*Construyendo el futuro de la IA empresarial, un agente a la vez.*
+<p align=""center"">
+  <i>Engineering the future with scalable AI solutions. | Construyendo el futuro con soluciones de IA escalables.</i>
+</p>
