@@ -2,7 +2,6 @@
 <h3 align=""center"">Software Developer & AI Architect</h3>
 <p align=""center="">
   <a href="www.linkedin.com/in/michael-lascano-nd">
-    linkedin
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
