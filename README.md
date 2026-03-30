@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://mi-portafolio-silk-eight.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio%20Web-Coming%20Soon-a78bfa?style=for-the-badge&labelColor=0a0a0a&color=a78bfa" alt="Portfolio Web" />
+    <img src="https://www.freepik.es/icono/usuario_17687697#fromView=keyword&page=2&position=70&uuid=7657a3fc-1a93-48d7-8258-3c30cb3a85e7" alt="Portfolio Web"/>
   </a>
 </p>
 ---
@@ -20,7 +20,7 @@
 
 | Project | Description (EN) | Descripción (ES) | Link |
 |:---:|---|---|:---:|
-| **Tae Do Academy CRM** | Web platform for a martial arts PYME. Real-time data management with serverless architecture. Code private (client project). | Plataforma web para PYME de artes marciales. Gestión de datos en tiempo real con arquitectura sin servidor. Código privado (proyecto cliente). | [Ver web](https://taedoacademy.vercel.app/) |
+| **Tae Do Academy CRM** | Web platform for a martial arts PYME. Real-time data management with serverless architecture. Code private (client project). | Plataforma web para PYME de artes marciales. Gestión de datos en tiempo real con arquitectura sin servidor. Código privado (proyecto cliente). | [Web](https://taedoacademy.vercel.app/) |
 | **AI Career Orchestrator (V4)** | Multi-agent autonomous system for career acceleration with Zero-Hallucination policy. | Sistema autónomo multi-agente para aceleración de carrera con arquitectura Cero-Alucinación. | [View](https://github.com/MaykNLD/AI_Career_Showcase) |
 | **Real Estate Analyzer** | Data analysis tool for real estate markets built in Java. | Herramienta de análisis de datos para mercados inmobiliarios desarrollada en Java. | [View](https://github.com/MaykNLD/Analizador-Inmobiliaria-Java) |
 | **Vehicle Rental Manager** | Scalable portfolio project for car rental business management. | Proyecto de gestión empresarial para alquiler de vehículos orientado a portafolio. | [View](https://github.com/MaykNLD/Alquiler-Vehiculos-Portfolio) |
