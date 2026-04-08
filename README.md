@@ -1,42 +1,17 @@
-<h1 align=""center"">Michael Nicolai Lascano Delgado</h1>
-<h3 align=""center"">Software Developer & AI Architect</h3>
+# Michael Nicolai Lascano Delgado
 
-<p align="center">
-  <a href="https://mi-portafolio-mauve-three.vercel.app/" target="_blank">
-    <img   src="https://www.freepik.es/icono/usuario_17687697#fromView=keyword&page=2&position=70&uuid=7657a3fc-1a93-48d7-8258-3c30cb3a85e7" alt="Portfolio Web"/>
-  </a>
-</p>
----
+### Software Developer & AI Architect
+Engineering the future with scalable AI solutions. | Construyendo el futuro con soluciones de IA escalables.
 
-### Professional Profile | Perfil Profesional
+## 🚀 Proyectos Destacados | Featured Projects
 
-**[EN]** Dedicated Software Developer and AI Architect specialized in building autonomous multi-agent systems, advanced automation workflows, and scalable backend solutions. Focused on high-impact technology and process optimization through Artificial Intelligence.
-
-**[ES]** Desarrollador de Software y Arquitecto de IA especializado en la construcción de sistemas autónomos multi-agente, flujos de automatización avanzados y soluciones de backend escalables. Enfocado en tecnología de alto impacto y optimización de procesos mediante Inteligencia Artificial.
-
----
-
-### Key Projects | Proyectos Destacados
-
-| Project | Description (EN) | Descripción (ES) | Link |
-|:---:|---|---|:---:|
-| **Tae Do Academy CRM** | Web platform for a martial arts PYME. Real-time data management with serverless architecture. Code private (client project). | Plataforma web para PYME de artes marciales. Gestión de datos en tiempo real con arquitectura sin servidor. Código privado (proyecto cliente). | [Web](https://taedoacademy.vercel.app/) |
-| **AI Career Orchestrator (V4)** | Multi-agent autonomous system for career acceleration with Zero-Hallucination policy. | Sistema autónomo multi-agente para aceleración de carrera con arquitectura Cero-Alucinación. | [View](https://github.com/MaykNLD/AI_Career_Showcase) |
-| **Real Estate Analyzer** | Data analysis tool for real estate markets built in Java. | Herramienta de análisis de datos para mercados inmobiliarios desarrollada en Java. | [View](https://github.com/MaykNLD/Analizador-Inmobiliaria-Java) |
-| **Vehicle Rental Manager** | Scalable portfolio project for car rental business management. | Proyecto de gestión empresarial para alquiler de vehículos orientado a portafolio. | [View](https://github.com/MaykNLD/Alquiler-Vehiculos-Portfolio) |
-| **App Planning** | Android mobile application for productivity and strategic planning. | Aplicación móvil Android para productividad y planificación estratégica. | [View](https://github.com/MaykNLD/App_Planning) |
+| Proyecto / Project | Descripción (ES) | Description (EN) | Repositorio | Stack |
+|:---|:---|:---|:---:|:---:|
+| **VTEX Mongo Integration Gateway** | Middleware Gateway conectando la API de **VTEX E-commerce** con **MongoDB**. Implementa Clean Architecture (Services, Controllers, Models), refactorizado y blindado con variables de entorno variables. Listo con Docker. | API Gateway integrating VTEX E-commerce API with MongoDB. Features Clean Architecture (Services, Controllers, Models), environment variables security, and full Docker support. | [🔗 Ver Repo](https://github.com/MaykNLD/vtex-mongo-integration) | `Node.js` `Express` `MongoDB` `Docker` |
+| **Seora - Premium Music CRM** | Sistema CRM robusto desarrollado para la gestión de talleres y tiendas de instrumentos musicales de alta gama. Soporte para backend en la nube con MongoDB Atlas y empaquetado seguro en Gunicorn. | Robust CRM built for high-end musical instrument stores and workshops. Features cloud backend support with MongoDB Atlas and secure packaging running on Gunicorn. | [🔗 Ver Repo](https://github.com/MaykNLD/seora-crm-mongodb) | `Python` `Flask` `MongoDB` `Docker` |
+| **API Entrenamiento Fitness** | Interfaz REST para la hiper-gestión de rutinas deportivas. Escalabilidad profesional, sistema de enrutamiento modular y manejo de configuraciones ocultas para despliegues CI/CD en la nube. | REST API for extreme workout management. Features professional scalability, modular routing system, and hidden configuration handling for cloud CI/CD deployments. | [🔗 Ver Repo](https://github.com/MaykNLD/API-Entrenamiento-Fitness) | `Node.js` `REST` `Docker` |
+| **App Planning Planner** | App nativa en Android con integraciones cloud de Firebase. Arquitectura reestructurada usando directivas modernas de *Firebase Bill of Materials (BoM)* y SDK nativo escalable de Android P. | Native Android app with Firebase cloud integrations. Architecture modernized utilizing current *Firebase Bill of Materials (BoM)* directives and scalable Android SDK. | [🔗 Ver Repo](https://github.com/MaykNLD/App_Planning) | `Java` `Android` `Firebase` |
+| **Registro Conservatorio MVC** | Sistema clásico en Java nativo bajo el patrón Modelo-Vista-Controlador. Migrado para aislar dependencias del IDE con **Maven** implementando un sistema de construcción por ejecutable unificado (*Fat JAR*). | Java internal system built under the classic Model-View-Controller pattern. Migrated via Maven to fully detach it from the IDE, generating a unified standalone executable file. | [🔗 Ver Repo](https://github.com/MaykNLD/Registro-Conservatorio-MVC) | `Java` `Swing` `Maven` `MVC` |
 
 ---
-
-### Social Network | Red Social
-
-<p align=""center="">
-  <a href="https://www.linkedin.com/in/michael-lascano-nd">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
-
----
-<p align=""center"">
-  <i>Engineering the future with scalable AI solutions. | Construyendo el futuro con soluciones de IA escalables.</i>
-</p>
+*Construido con estándares corporativos y "Clean Code". Explora los repositorios para ver las documentaciones, diagramas y configuraciones CI/CD de cada proyecto.*
